@@ -1,0 +1,89 @@
+.subscribe-area{
+    /* Rectangle 77 */
+    width: 1016px;
+    height: 264px;
+    left: 220px;
+    top: 3366px;
+
+    background: #FFD809;
+    border-radius: 15px;
+
+}
+
+
+
+
+.subscribe-header-a{
+    /* Sign Up for our Newsletter */
+    height: 35px;
+    left: 551px;
+    top: 3422px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+
+
+}
+
+
+
+.subscribe-header-b{
+    /* Our Subscribers get 20 Coupons */
+    height: 26px;
+    left: 570px;
+    top: 3554px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+
+
+
+
+
+.sub-now{
+    /* Rectangle 68 */
+    width: 610px;
+    height: 51px;
+    left: 423px;
+    top: 3480px;
+    box-sizing: border-box;
+
+}
+
+.email-input{
+    background: #121212;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    border-radius: 40px 0 0 40px;
+}
+
+.submit-input{
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    border-radius: 0 40px 40px 0;
+    background: #FFD809;
+    font-weight: 700;
+}
+
+.coupon{
+    font-weight: 600;
+}
+
+
+
+

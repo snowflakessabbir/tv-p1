@@ -1,0 +1,151 @@
+img{
+    width: 100%;
+}
+
+.top-navbar{
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-input{
+  border-radius: 25px 0 0 25px;
+  background-color: #121212;
+  border: 0;
+}
+
+::placeholder { 
+  color: #9E9E9E;
+  opacity: 1; 
+}
+
+.search-btn{
+  border-radius: 0 25px 25px 0;
+  background-color:#FFD809;
+  border: 0;
+}
+
+.select-lang{
+  margin:0 5px ;
+  background-color: black;
+  border: 0;
+  color: white;
+  padding: 9px;
+  border-radius: 5px;
+}
+
+.user .fas{
+  color:white;
+  font-size: 25px;
+}
+
+.fa-search{
+  color:black;
+  font-size: 20px;
+}
+
+
+
+.menu-bar{
+  background-color: yellow;
+}
+
+
+
+
+.menu-bar .nav{
+  width: 1100px;
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 5px;
+  
+ }
+ .menu-bar ul li{
+  list-style: none;
+  width: 200px;
+  line-height: 60px;
+  position: relative;
+  background: #222;
+  box-shadow: 0px 2px 5px 0px grey;
+  text-align: center;
+  float: left;
+  background-color: yellow;
+ }
+ .menu-bar ul li ul{
+  position: absolute;
+ }
+ .menu-bar .nav > ul > li:nth-of-type(1){
+  border-radius: 5px 0px 0px 5px;
+ }
+ .nav > ul > li:nth-of-type(5){
+  border-radius: 0px 5px 5px 0px;
+ }
+ .menu-bar ul li a{
+  color: black;
+  width: 200px;
+  height: 58px;
+  display: inline-block;
+  text-decoration: none;
+ }
+ .menu-bar ul li a:hover{
+  font-weight: bold;
+  border-bottom: 2px solid #fff;
+  color: white;
+  background-color: black;
+ }
+ .menu-bar ul li ul{
+  display: none;
+ }
+ .menu-bar .nav ul li:hover ul{
+  display: block;
+  z-index: 3;
+ }
+ .menu-bar .fa{
+  margin-right: 5px;
+ }
+ .menu-bar .container{
+  width: 1000px;
+  height: 200px;
+  margin: 0 auto;
+  padding:20px 20px;
+ }
+
+/*  
+ @media screen and (max-width: 480px){
+  header{
+  width: 100%;
+  }
+  .nav{
+  display: none;
+  width: 100%;
+  height: auto;
+  }
+  ul li{
+  width: 100%;
+  float: none;
+  }
+  ul li a{
+  width: 100%;
+  display: block;
+  }
+  ul li ul{
+  position: static;
+  }
+  ul li ul li a{
+  background: #222;
+  }
+  .fa-list.modify{
+  display: block;
+  }
+  .container{
+  width: 100%;
+  height: auto;
+  }
+} */

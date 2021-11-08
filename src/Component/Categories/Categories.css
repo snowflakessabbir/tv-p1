@@ -1,0 +1,48 @@
+.items-categories{
+    box-sizing: border-box;
+}
+
+.cat-h{
+    /* Categories */
+    height: 47px;
+    left: 631px;
+    top: 2392px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #FFD809;
+
+
+}
+
+.ring-img{
+    border:  2px solid #161616;
+    border-radius: 50%;
+    /* border-radius: 2px solid #161616; */
+}
+.ring-img img{
+    width: 100%;
+}
+
+.ring-title{
+    /* Ring */
+    height: 28px;
+    left: 262px;
+    top: 2651px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #DFDFDF;
+
+
+}

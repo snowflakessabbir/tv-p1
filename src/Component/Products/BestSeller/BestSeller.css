@@ -1,0 +1,143 @@
+.best-seller{
+}
+
+.bs-h{
+    /* Best Sellers */
+height: 35px;
+left: 55px;
+top: 851px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFD809;
+
+
+}
+
+
+
+
+.bs-link{
+    /* View all */
+left: 1319px;
+top: 864px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+}
+
+
+.border-clr{
+    border: 2px solid #1B1B1B;
+}
+
+
+
+.bs-img{
+width: 211.25px;
+height: 185.34px;
+left: 324.89px;
+top: 21.92px;
+}
+
+
+
+
+
+
+.name{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+
+
+}
+
+
+
+
+
+
+
+
+.star{
+    /* 5.0 (834) */
+width: 75px;
+height: 15px;
+left: 421px;
+top: 291px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+
+
+.price{
+width: 63.77px;
+height: 31.89px;
+left: 313px;
+top: 323px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+}
+
+
+.weight{
+
+
+    /* 34 gm , 24kt Gold */
+width: 147px;
+height: 26px;
+left: 907px;
+top: 256px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #5A5A5A;
+
+
+
+}
+
+
+.review-count{
+    color: #5A5A5A;
+}

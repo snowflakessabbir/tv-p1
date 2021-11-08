@@ -1,0 +1,120 @@
+.footer-area{
+    /* Rectangle 78 */
+    margin-top: 20px;
+    height: 462px;
+    background: #0A0A0A;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background: #0A0A0A;
+
+}
+
+.footer-area a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+
+
+.div-p{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget molestie eleifend sed viverra. */
+    width: 354px;
+    height: 62px;
+    left: 117px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+
+
+}
+
+
+.apple{
+    font-size: 18px;
+    left: 1px;
+    border-radius: 0px;
+    border: 2px solid #A7A9AB;
+    color: white;
+    width: 200px;
+    height: 70px;
+    border-radius: 9px;
+    background-color: #0A0A0A;
+    ;
+}
+
+
+.play{
+    font-size: 18px;
+    left: 1px;
+    border-radius: 0px;
+    border: 2px solid #A7A9AB;
+    color: white;
+    width: 200px;
+    height: 70px;
+    border-radius: 9px;
+    background-color: #0A0A0A;
+    ;
+}
+
+
+
+.quick-link{
+    /* Quick Links */
+    width: 107px;
+    height: 23px;
+    left: 695px;
+    top: 3799px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFD809;
+}
+
+
+.quick-contact{
+    /* Quick Contacts */
+    left: 949px;
+    top: 3799px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFD809;
+}
+
+.address-h{
+    /* Address */
+    color: #FFD809;
+}
+
+
+
+
+
+
+/* responsive */
+
+@media (max-width: 412px) {
+    
+
+}

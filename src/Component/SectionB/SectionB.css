@@ -1,0 +1,12 @@
+.section-b{
+    box-sizing: border-box;
+}
+
+.half-width{
+    width: 50%;
+    margin-right: 10px;
+}
+
+.half-width img{
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.rings-card{
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+
+.ring-card{
+    border:2px solid #3f3d3d;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+@media (max-width: 412px){ 
+    .rings-card{
+       grid-template-columns: 1fr;
+    }
+    .ring-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
